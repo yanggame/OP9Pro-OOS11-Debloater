@@ -36,6 +36,7 @@ REPLACE_EXAMPLE="
 REPLACE="
 /system/app/BackupRestoreRemoteService
 /system/app/BasicDreams
+/system/app/BluetoothMidiService
 /system/app/BookmarkProvider
 /system/app/By_3rd_FBAppManagerOverSeas
 /system/app/By_3rd_NetflixActivationOverSeas
@@ -49,6 +50,7 @@ REPLACE="
 /system/app/OPMinidumpOptimization
 /system/app/PartnerBookmarksProvider
 /system/app/SensorTestTool
+/system/app/SimAppDialog
 /system/app/Stk
 /system/app/Traceur
 /system/app/WallpaperBackup
@@ -67,6 +69,7 @@ REPLACE="
 /system/product/app/By_3rd_HeytapIdProviderIndia
 /system/product/app/By_3rd_McsIndia
 /system/product/app/By_3rd_NearmeIndia
+/system/product/app/Drive
 /system/product/app/Duo
 /system/product/app/GoogleAssistant
 /system/product/app/Music2
@@ -82,6 +85,7 @@ REPLACE="
 /system/product/priv-app/By_3rd_CloudServiceIndia
 /system/product/priv-app/By_3rd_RoamingServiceIndia
 /system/product/priv-app/GooglePartnerSetup
+/system/product/priv-app/GoogleRestore
 /system/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON
 /system/product/priv-app/HotwordEnrollmentXGoogleHEXAGON
 /system/product/priv-app/OobConfig
@@ -89,6 +93,7 @@ REPLACE="
 /system/product/priv-app/OPWorkLifeBalance
 /system/product/priv-app/SearchSelector
 /system/product/priv-app/Velvet
+/system/product/priv-app/Wellbeing
 /system/reserve/By_3rd_EpicGamesIndia
 /system/reserve/By_3rd_MaftPreloadManagerLahainaOverSeas
 /system/reserve/By_3rd_OnePlusStoreOverSeas
@@ -112,6 +117,8 @@ REPLACE="
 /system/system_ext/app/By_3rd_NetflixActivationOverSeas
 /system/system_ext/app/By_3rd_NetflixStubOverSeas
 /system/system_ext/app/By_3rd_PlayAutoInstallConfigOverSeas
+/system/system_ext/app/datastatusnotification
+/system/system_ext/app/embms
 /system/system_ext/app/EngineeringMode
 /system/system_ext/app/EngSpecialTest
 /system/system_ext/app/LogKitSdService
@@ -126,17 +133,23 @@ REPLACE="
 /system/system_ext/app/OPBugReportLite
 /system/system_ext/app/OPCommonLogTool
 /system/system_ext/app/OPEngMode
+/system/system_ext/app/OPFilemanager
+/system/system_ext/app/OPGamingSpace
+/system/system_ext/app/OPGeoIpTime
 /system/system_ext/app/OPLiveWallpaper
 /system/system_ext/app/OPMinidumpOptimization
 /system/system_ext/app/OPOnlineConfig
 /system/system_ext/app/OPPush
 /system/system_ext/app/OPSesAuthentication
+/system/system_ext/app/OPTelephonyDiagnoseManager
 /system/system_ext/app/OPWallpaperResources
 /system/system_ext/app/PhotosOnline
 /system/system_ext/app/remoteSimLockAuthentication
 /system/system_ext/app/remotesimlockservice
 /system/system_ext/app/Rftoolkit
 /system/system_ext/app/SoterService
+/system/system_ext/app/uimgbaservice
+/system/system_ext/app/uimlpaservice
 /system/system_ext/app/uimremoteclient
 /system/system_ext/app/uimremoteserver
 /system/system_ext/app/workloadclassifier
@@ -152,6 +165,7 @@ REPLACE="
 /system/system_ext/priv-app/OPDeviceManagerProvider
 /system/system_ext/priv-app/OpLogkit
 /system/system_ext/priv-app/OPOmm
+/system/system_ext/priv-app/SettingsIntelligence
 /system/system_ext/priv-app/SetupWizard
 /system/system_ext/priv-app/StorageManager
 /system/system_ext/priv-app/WallpaperCropper
