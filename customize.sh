@@ -62,7 +62,6 @@ REPLACE="
 /system/app/LiveWallpapersPicker
 /system/app/PartnerBookmarksProvider
 /system/app/SensorTestTool
-/system/app/SimAppDialog
 /system/app/Stk
 /system/app/Traceur
 /system/app/WallpaperBackup
@@ -75,7 +74,6 @@ REPLACE="
 /system/priv-app/QualcommVoiceActivation
 /system/priv-app/StatementService
 /system/product/app/Account
-/system/product/app/com.google.mainline.telemetry
 /system/product/app/Drive
 /system/product/app/Duo
 /system/product/app/GoogleAssistant
@@ -123,7 +121,6 @@ REPLACE="
 /system/system_ext/app/OPTelephonyDiagnoseManager
 /system/system_ext/app/OPWallpaperResources
 /system/system_ext/app/PhotosOnline
-/system/system_ext/app/QtiTelephonyService
 /system/system_ext/app/remoteSimLockAuthentication
 /system/system_ext/app/remotesimlockservice
 /system/system_ext/app/Rftoolkit
@@ -139,14 +136,12 @@ REPLACE="
 /system/system_ext/priv-app/GoogleFeedback
 /system/system_ext/priv-app/GoogleOneTimeInitializer
 /system/system_ext/priv-app/IFAAService
-/system/system_ext/priv-app/OPAccessoryFramework
 /system/system_ext/priv-app/OPAppCategoryProvider
 /system/system_ext/priv-app/OPBackup
 /system/system_ext/priv-app/OPDeviceManager
 /system/system_ext/priv-app/OPDeviceManagerProvider
 /system/system_ext/priv-app/OpLogkit
 /system/system_ext/priv-app/OPOmm
-/system/system_ext/priv-app/SettingsIntelligence
 /system/system_ext/priv-app/SetupWizard
 /system/system_ext/priv-app/WallpaperCropper
 "
