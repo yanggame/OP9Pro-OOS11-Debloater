@@ -69,9 +69,11 @@ REPLACE="
 /system/priv-app/CellBroadcastLegacyApp
 /system/priv-app/DynamicSystemInstallationService
 /system/priv-app/FilesGoogle
+/system/priv-app/LocalTransport
 /system/priv-app/ManagedProvisioning
 /system/priv-app/OPCommunicationData
 /system/priv-app/QualcommVoiceActivation
+/system/priv-app/SharedStorageBackup
 /system/priv-app/StatementService
 /system/product/app/Account
 /system/product/app/Drive
@@ -96,6 +98,7 @@ REPLACE="
 /system/system_ext/app/By_3rd_NetflixStubOverSeas
 /system/system_ext/app/By_3rd_PlayAutoInstallConfigOverSeas
 /system/system_ext/app/datastatusnotification
+/system/system_ext/app/DeviceStatisticsService
 /system/system_ext/app/embms
 /system/system_ext/app/EngineeringMode
 /system/system_ext/app/EngSpecialTest
@@ -109,6 +112,7 @@ REPLACE="
 /system/system_ext/app/OPBreathMode
 /system/system_ext/app/OPBugReportLite
 /system/system_ext/app/OPCommonLogTool
+/system/system_ext/app/OPDataOptimization
 /system/system_ext/app/OPEngMode
 /system/system_ext/app/OPFilemanager
 /system/system_ext/app/OPGamingSpace
@@ -119,8 +123,12 @@ REPLACE="
 /system/system_ext/app/OPPush
 /system/system_ext/app/OPSesAuthentication
 /system/system_ext/app/OPTelephonyDiagnoseManager
+/system/system_ext/app/OPTelephonyOptimization
 /system/system_ext/app/OPWallpaperResources
+/system/system_ext/app/PerformanceMode
 /system/system_ext/app/PhotosOnline
+/system/system_ext/app/QColor
+/system/system_ext/app/QTIDiagServices
 /system/system_ext/app/remoteSimLockAuthentication
 /system/system_ext/app/remotesimlockservice
 /system/system_ext/app/Rftoolkit
